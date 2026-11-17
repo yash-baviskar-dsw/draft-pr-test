@@ -8,7 +8,7 @@ def greet(name: str) -> str:
 
 def main() -> None:
     """Print the example greeting."""
-    print(greet("CI, conflict demo version!"))
+    print(greet("Message from conflict branch two"))
 
 
 if __name__ == "__main__":
