@@ -8,7 +8,7 @@ def greet(name: str) -> str:
 
 def main() -> None:
     """Print the example greeting."""
-    print(greet("CI"))
+    print(greet("CI, is so cool, here!"))
 
 
 if __name__ == "__main__":
