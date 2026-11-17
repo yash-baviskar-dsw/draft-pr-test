@@ -8,7 +8,7 @@ def greet(name: str) -> str:
 
 def main() -> None:
     """Print the example greeting."""
-    print(greet("Message from conflict branch two"))
+    print(greet("Version from conflict demo B"))
     print(greet("Message from conflict branch one"))
 
 
