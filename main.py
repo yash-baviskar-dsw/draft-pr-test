@@ -9,6 +9,7 @@ def greet(name: str) -> str:
 def main() -> None:
     """Print the example greeting."""
     print(greet("Message from conflict branch two"))
+    print(greet("Message from conflict branch one"))
 
 
 if __name__ == "__main__":
